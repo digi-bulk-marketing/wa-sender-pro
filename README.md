@@ -1,9 +1,14 @@
 # WA Sender Pro
 
-- Rebranding ID: 6816179fb61e49fca4745e00
-- User ID: 63340f4fd4367a64d11caeb3
-- App name: WA Sender Pro
-- Product name: Button Sender
+WA Sender Pro by Pi Soft Solutions.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/wa-sender-pro/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/wa-sender-pro/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/wa-sender-pro/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **WA Sender Pro** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/wa-sender-pro/releases/latest) and reinstall.
